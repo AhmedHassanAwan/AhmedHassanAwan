@@ -11,7 +11,7 @@ Let's connect and turn ideas into powerful digital experiences 🚀
 
 ---
 
-## 🛠️ Technical Skills
+##  Skills
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,firebase,tailwind,bootstrap,nodejs,express,mongodb,git,github,nextjs,vscode" />
@@ -19,9 +19,19 @@ Let's connect and turn ideas into powerful digital experiences 🚀
 
 ---
 
-## 📊 GitHub Statistics
 
-<img src="https://camo.githubusercontent.com/e16ae3f03c6026dec0974b28eb00d57abcc364c34fbfdaa42c71bf00439fcb13/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d41686d656448617373616e4177616e267468656d653d6769746875625f6461726b2673686f775f69636f6e733d7472756526686964655f626f726465723d7472756526686964655f7469746c653d74727565" />
+
+## 📊 GitHub Analytics
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1.5rem;">
+
+<!-- Main Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedhassanawan&show_icons=true&theme=github_dark&hide_border=true" style="width: 48%; min-width: 300px;"/>
+
+<!-- Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhassanawan&theme=github_dark&hide_border=true&layout=compact" style="width: 43%; min-width: 250px;"/>
+
+</div>
 
 ---
 
