@@ -1,4 +1,7 @@
-# Ahmed Hassan Awan (AhmedHassanAwan)
+# Ahmed Hassan Awan (AhmedHassanAwan) 👨‍💻
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=26&duration=2500&pause=2000&color=00F7FF&background=0D111700&center=true&vCenter=true&width=580&height=60&lines=👋+Hello%2C+I'm+Ahmed+Hassan+Awan!;💻+Professional+Frontend+Web+Developer;⚛️+React.js+%26+Next.js;🔥+TypeScript+Firebase+Javascript;🎨+UI%2FUX+Design+with+Tailwind+CSS;🚀+Building+Scalable+Web+Applications;🐙+GitHub+Open-Source+Contributor)](https://git.io/typing-svg)
+
 
 Hey, I'm Ahmed – a passionate Web Developer currently focused on Frontend Development.  
 Skilled in HTML, CSS, JavaScript, React, Firebase, Tailwind CSS, Bootstrap, Git/GitHub, and TypeScript.  
@@ -8,44 +11,29 @@ Let's connect and turn ideas into powerful digital experiences 🚀
 
 ---
 
-## 🧠 Skills
+## 🛠️ Technical Skills
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,firebase,tailwind,bootstrap,nodejs,express,mongodb,git,github,nextjs,vscode" />
+</div>
 
 ---
 
-## 🏆 GitHub Trophy
+## 📊 GitHub Statistics
 
-![trophy](https://github-profile-trophy.vercel.app/?username=AhmedHassanAwan&theme=onedark&row=1&no-bg=true&no-frame=true)
-
----
-
-## 📈 Git Overview
-
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedHassanAwan&show_icons=true&theme=github_dark)  
-![GitHub Streak](https://streak-stats.demolab.com?user=AhmedHassanAwan&theme=github-dark&hide_border=true)
+<img src="https://camo.githubusercontent.com/e16ae3f03c6026dec0974b28eb00d57abcc364c34fbfdaa42c71bf00439fcb13/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d41686d656448617373616e4177616e267468656d653d6769746875625f6461726b2673686f775f69636f6e733d7472756526686964655f626f726465723d7472756526686964655f7469746c653d74727565" />
 
 ---
 
-## 🔗 Get in Touch
+## 🌐 Connect With Me
 
-[<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/YOUR-LINKEDIN-URL)  
-📧 Email: your-email@example.com
+<div align="start">
+  <a href="https://www.linkedin.com/in/ahmed-hassan-awan-778136329/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:ahmedhassanawan1@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</div>
 
 ---
-
-<!-- Projects section can be added later -->
-<!-- ## 🚀 Featured Projects -->
